@@ -2,8 +2,14 @@ class AppImage {
   static String gtr =
       "https://media.licdn.com/dms/image/v2/C560BAQGnmpLmRDr5-A/company-logo_200_200/company-logo_200_200/0/1676778610608/genuine_technology__research_ltd__logo?e=1755129600&v=beta&t=3Unumzot-ubOcJ0fDWdTYjnvLBZk1x8ZPLDXJ9jNTxU";
 
-
+//app ss
 static String googleImage="assets/images/google_image1.png";
+static String customerlist1="assets/images/customerlist2.png";
+static String customerlist2="assets/images/customerlist2.png";
+static String loginpage="assets/images/loginpage.png";
+static String textfieldtap="assets/images/texfueldtap.png";
+static String validation="assets/images/validation.png";
+static String withoutusercredintial="assets/images/withoutusercredintial.png";
 
 
 }
