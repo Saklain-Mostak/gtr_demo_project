@@ -29,18 +29,25 @@ A Flutter mobile application built using **GetX** for state management and **MVV
 ---
 
 
+### 🎥 Watch App Demo
+
+[![Demo](https://img.youtube.com/vi/AbCdEfG1234/0.jpg)]([https://www.youtube.com/watch?v=AbCdEfG1234](https://youtube.com/shorts/tc0kY3rGMDA?si=yYJZtcNxczMphGZw)
+
+
 
 
 ## 📸 Customer List Screenshots
 
-### 🔹 LogIn Section
+ 🔹 LogIn Section
 
 <p align="center">
   <img src="assets/images/loginpage.png" width="28%" style="margin-right:10px;" />
   <img src="assets/images/texfueldtap.png" width="28%" style="margin-right:10px;" />
   <img src="assets/images/validation.png" width="28%" />
 </p>
-### 🔹 Customer List Section
+
+ 🔹 Customer List Section
+ 
 <p align="center">
   <img src="assets/images/withoutusercredintial.png" width="28%" style="margin-right:10px;" />
   <img src="assets/images/customerlist2.png" width="28%" style="margin-right:10px;" />
