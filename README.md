@@ -1,4 +1,4 @@
-# 📱 GTR Task - Customer Viewer App
+## 📱 GTR Task - Customer Viewer App
 
 A Flutter mobile application built using **GetX** for state management and **MVVM architecture**, designed to fetch and display customer data from an API with proper pagination and type-safe model handling.
 
@@ -28,17 +28,6 @@ A Flutter mobile application built using **GetX** for state management and **MVV
 
 ---
 
-## 📦 Folder Structure
-
-lib/
-├── src/
-│ ├── core/ # Constants, themes
-│ ├── features/
-│ │ ├── models/ # Data models (CustomerModel, PageInfo)
-│ │ ├── services/ # API integration logic
-│ │ ├── view/ # UI screens and widgets
-│ │ └── view_models/ # GetX Controllers
-│ └── shared/ # Shared functions and widgets
 
 
 
@@ -53,7 +42,7 @@ lib/
 
 
 
-🙋 Author
+## 🙋 Author
 
 Saklain Mostak|
 Flutter Developer|
