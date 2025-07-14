@@ -31,7 +31,8 @@ A Flutter mobile application built using **GetX** for state management and **MVV
 
 ### 🎥 Watch App Demo
 
-[![Demo](https://img.youtube.com/vi/AbCdEfG1234/0.jpg)](https://youtube.com/shorts/tc0kY3rGMDA?si=yYJZtcNxczMphGZw)
+[![Demo](https://img.youtube.com/vi/tc0kY3rGMDA/0.jpg)](https://youtube.com/shorts/tc0kY3rGMDA?si=yYJZtcNxczMphGZw)
+
 
 
 
