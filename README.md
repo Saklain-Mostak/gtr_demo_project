@@ -42,20 +42,20 @@ lib/
 
 
 
-| Customer List ScreenShot                  
-| --------------------------------------------------- 
-| ![screenshot](assets/images/loginpage.png)
-| ![screenshot](assets/images/texfueldtap.png)
-| ![screenshot](assets/images/validation.png)
-| ![screenshot](assets/images/withoutusercredintial.png)
-| ![screenshot](assets/images/customerlist2.png)
-| ![screenshot](assets/images/customerlist1.png)
+| Customer List ScreenShot                  |
+| ---------------------------------------------------|       
+| ![screenshot](assets/images/loginpage.png) |
+| ![screenshot](assets/images/texfueldtap.png) |
+| ![screenshot](assets/images/validation.png) |
+| ![screenshot](assets/images/withoutusercredintial.png) 
+| ![screenshot](assets/images/customerlist2.png)| 
+| ![screenshot](assets/images/customerlist1.png) |
 
 
 
 🙋 Author
 
-Saklain Mostak
-Flutter Developer
-📧 Email: saklain.pub@gmail.com
-🌐 phone: 01518989122
+Saklain Mostak|
+Flutter Developer|
+📧 Email: saklain.pub@gmail.com|
+🌐 phone: 01518989122|
