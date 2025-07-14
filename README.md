@@ -33,20 +33,21 @@ A Flutter mobile application built using **GetX** for state management and **MVV
 
 ## 📸 Customer List Screenshots
 
-### 🔹 First Row
+### 🔹 LogIn Section
 
 <p align="center">
-  <img src="assets/images/loginpage.png" width="30%" />
-  <img src="assets/images/texfueldtap.png" width="30%" />
-  <img src="assets/images/validation.png" width="30%" />
+  <img src="assets/images/loginpage.png" width="40%" />
+  <img src="assets/images/texfueldtap.png" width="40%" />
+  <img src="assets/images/validation.png" width="40%" />
+   <img src="assets/images/withoutusercredintial.png" width="40%" />
 </p>
 
-### 🔹 Second Row
+### 🔹 Customer List Section
 
 <p align="center">
-  <img src="assets/images/withoutusercredintial.png" width="30%" />
-  <img src="assets/images/customerlist2.png" width="30%" />
-  <img src="assets/images/customerlist1.png" width="30%" />
+
+  <img src="assets/images/customerlist2.png" width="40%" />
+  <img src="assets/images/customerlist1.png" width="40%" />
 </p>
 
 
