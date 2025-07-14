@@ -36,26 +36,22 @@ A Flutter mobile application built using **GetX** for state management and **MVV
 ### 🔹 LogIn Section
 
 <p align="center">
-  <img src="assets/images/loginpage.png" width="40%" />
-  <img src="assets/images/texfueldtap.png" width="40%" />
-  <img src="assets/images/validation.png" width="40%" />
-   <img src="assets/images/withoutusercredintial.png" width="40%" />
+  <img src="assets/images/loginpage.png" width="28%" style="margin-right:10px;" />
+  <img src="assets/images/texfueldtap.png" width="28%" style="margin-right:10px;" />
+  <img src="assets/images/validation.png" width="28%" />
 </p>
-
 ### 🔹 Customer List Section
-
 <p align="center">
-
-  <img src="assets/images/customerlist2.png" width="40%" />
-  <img src="assets/images/customerlist1.png" width="40%" />
+  <img src="assets/images/withoutusercredintial.png" width="28%" style="margin-right:10px;" />
+  <img src="assets/images/customerlist2.png" width="28%" style="margin-right:10px;" />
+  <img src="assets/images/customerlist1.png" width="28%" />
 </p>
 
 
 
 
 ## 🙋 Author
-
-Saklain Mostak|
-Flutter Developer|
-📧 Email: saklain.pub@gmail.com|
+  Created by [Saklain Mostak](https://www.linkedin.com/in/saklain-mostak-3809b4230/)  
+  Email: [saklain.pub@gmail.com](mailto:saklain.pub@gmail.com)  
+  GitHub: [github.com/Saklain-Mostak](https://github.com/Saklain-Mostak)
 🌐 phone: 01518989122|
