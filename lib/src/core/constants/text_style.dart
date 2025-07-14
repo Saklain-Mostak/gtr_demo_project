@@ -28,20 +28,7 @@ class AppTextStyle{
   );
 
 
-  // static TextStyle bodySmall = GoogleFonts.inter(
-  //   fontSize: 10.sp,
-  //   fontWeight: FontWeight.w500,
-  //   color: AppColors.searchHintColor,
-  //   letterSpacing: 0.0
-  // );
 
-
-  //   static TextStyle bodySmall2 = GoogleFonts.inter(
-  //   fontSize: 10.sp,
-  //   fontWeight: FontWeight.w500,
-  //   color: AppColors.percentageColor,
-  //   letterSpacing: 0.0
-  // );
 
 
 

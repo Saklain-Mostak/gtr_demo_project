@@ -6,7 +6,7 @@ import 'package:gtr_task/src/features/models/customer_model.dart';
 import 'package:http/http.dart' as http;
 
 class CustomerApiService {
-  //GetCustomerList?searchquery&pageNo=1&pageSize=20&SortyBy=Balance
+  
 
   static Future<CustomerModel> fetchcategories(
     int pageNo,

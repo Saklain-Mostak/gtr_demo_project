@@ -43,8 +43,7 @@ class MyApp extends StatelessWidget {
             colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           ),
           home:
-              //HomePage()
-              // AllCustomerList(textItemHead: 'hghjfhjf', textIem: '5454345',)
+
               isLoggedIn ? HomePage() : LogIn(),
         );
       },

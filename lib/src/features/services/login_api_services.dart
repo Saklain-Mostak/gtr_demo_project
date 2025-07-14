@@ -12,7 +12,7 @@ class LoginApiServices {
     String password,
     int comId,
   ) async {
-    //var isLoading = false.obs;
+
 
     final url = Uri.parse(
       "${ApiPath.baseUrl}LogIn?UserName=$userName&Password=$password&ComId=$comId",
