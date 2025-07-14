@@ -30,3 +30,26 @@ A Flutter mobile application built using **GetX** for state management and **MVV
 
 ## 📦 Folder Structure
 
+lib/
+├── src/
+│ ├── core/ # Constants, themes
+│ ├── features/
+│ │ ├── models/ # Data models (CustomerModel, PageInfo)
+│ │ ├── services/ # API integration logic
+│ │ ├── view/ # UI screens and widgets
+│ │ └── view_models/ # GetX Controllers
+│ └── shared/ # Shared functions and widgets
+
+
+
+| Customer List Example                               |
+| --------------------------------------------------- |
+| ![screenshot](assets/screenshots/customer_list.png) |
+
+
+🙋 Author
+Saklain Mostak
+Flutter Developer • Firebase • GetX Enthusiast
+📧 Email: your.email@example.com
+🌐 LinkedIn: linkedin.com/in/yourprofile
+
